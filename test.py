@@ -36,7 +36,7 @@ def test_model(client, question):
 
 if __name__ == "__main__":
 
-    API_KEY = "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"
+    API_KEY = ""
 
     # Создаем клиент OpenAI
     client = OpenAI(api_key=API_KEY)
